@@ -7,5 +7,5 @@
 5 local/test1
 6
 7 Local 2
-8
+8 local/test2
 9 XYZ
